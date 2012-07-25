@@ -1,12 +1,30 @@
 Wish List for Legal Documents
 =======================
 
-Hey guys/gals:
+We wanted to share legal documents that would be useful to the Github community.  Hopefully, you will share, too, so that everyone can benefit from a free repository of docs that is comprehensive and accurate.
 
-If you're looking for a legal document that you can't find on Github, go ahead and add it to this list.  Hopefully, someone in the Github community is willing to share.
+If you're looking for a specific document but can't find it, please add it to the list below, so that someone in the Github community can see your request.  
 
-If you see a legal document on this list that's in your possession, please share and update this list with where you've uploaded it.  If you don't want to bother formatting for Markdown, feel free to email it to us at our **Gmail account: paperwellcare**, and we will do it for you. (We're [Paperwell.com][1] and we're trying to make quality legal documents free and accessible to everyone).  
+If you want to share a doc but are feeling too lazy to edit it in Markdown, feel free to email it to our Gmail account: paperwellcare, and we can do it for you.
 
-Thanks!
+[1]: http://www.Paperwell.com
 
-[1]: http://www.paperwell.com
+*****
+
+Incorporation Document
+Certificate of Incorporation
+Bylaws
+Action by Written Consent of Incorporator
+Initial Organizational Resolutions of the Board of Directors
+Common Stock Certificate
+Stock Ledger
+83(b) Election Form
+25102(f) Notice
+Stock Plan
+Stock Plan Summary
+Board Approval of Stock Plan
+Stockholder Approval of Stock Plan
+Board Approval of option Grant
+25102(o) Notice
+
+
