@@ -11,20 +11,20 @@ If you want to share a doc but are feeling too lazy to edit it in Markdown, feel
 
 *****
 
-Incorporation Document
-Certificate of Incorporation
-Bylaws
-Action by Written Consent of Incorporator
-Initial Organizational Resolutions of the Board of Directors
-Common Stock Certificate
-Stock Ledger
-83(b) Election Form
-25102(f) Notice
-Stock Plan
-Stock Plan Summary
-Board Approval of Stock Plan
-Stockholder Approval of Stock Plan
-Board Approval of option Grant
-25102(o) Notice
+  - Incorporation Document
+  - Certificate of Incorporation
+  - Bylaws
+  - Action by Written Consent of Incorporator
+  - Initial Organizational Resolutions of the Board of Directors
+  - Common Stock Certificate
+  - Stock Ledger
+  - 83(b) Election Form
+  - 25102(f) Notice
+  - Stock Plan
+  - Stock Plan Summary
+  - Board Approval of Stock Plan
+  - Stockholder Approval of Stock Plan
+  - Board Approval of option Grant
+  - 25102(o) Notice
 
 
