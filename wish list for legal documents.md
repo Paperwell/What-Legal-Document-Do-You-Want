@@ -1,13 +1,13 @@
 Wish List for Legal Documents
 =============================
 
-Hey guys & gals,
-
-We're [Paperwell] [1], and We wanted to share legal documents that would be useful to the Github community.  Hopefully, you will share, too, so that everyone can benefit from a free repository of docs that is comprehensive and accurate.
-
-If you're looking for a specific document but can't find it, please add it to the list below, so that someone in the Github community can see your request.  
+If you're looking for a specific legal document but can't find it, please add it to the list below, so that someone in the Github community can see your request.  
 
 If you want to share a doc but are feeling too lazy to edit it in Markdown, feel free to email it to our Gmail account: paperwellcare, and we can do it for you.
+
+Thanks!
+
+*P.S. - We're [Paperwell] [1], and we want to share legal documents that would be useful to the Github community.  Hopefully, you will share, too, so that everyone can benefit from a free repository of docs that is as comprehensive and accurate as possible.*
 
 [1]: http://www.Paperwell.com
 
